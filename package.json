@@ -1,6 +1,6 @@
 {
   "name": "rozetNodeSdk",
-  "version": "1.0.0",
+  "version": "0.2.1",
   "description": "The Rozet JavaScript SDK implements the client-side libraries used by applications using the Rozet protocols. This SDK is distributed via:",
   "main": "index.js",
   "directories": {
