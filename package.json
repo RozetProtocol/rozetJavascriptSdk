@@ -39,5 +39,5 @@
     "build": "webpack --env build"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
