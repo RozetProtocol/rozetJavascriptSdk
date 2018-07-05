@@ -3,7 +3,7 @@
 The Rozet JavaScript SDK implements the client-side libraries used by
 applications using the Rozet protocols. This SDK is distributed via:
 
-- CDN (`<script src="https://app.rozet.io/rozetNodeSdk/0.2.1/rozet.js"></script>`)
+- CDN (`<script src="https://app.rozet.io/sdk/0.2.1/rozet.min.js"></script>`)
 - [npm package](https://www.npmjs.com/package/rozet)
 
 ## Getting Started
