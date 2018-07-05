@@ -9,9 +9,15 @@
   },
   "dependencies": {
     "bignumber.js": "^7.2.1",
+    "bip39": "^2.5.0",
     "bluebird": "^3.5.1",
+    "bs58check": "^2.1.1",
+    "ethereumjs-util": "^5.2.0",
+    "hdkey": "^1.0.0",
     "queue": "^4.4.2",
-    "web3": "^1.0.0-beta.34"
+    "truffle-hdwallet-provider": "0.0.5",
+    "web3": "^0.20.0",
+    "web3-provider-engine": "^14.0.6"
   },
   "devDependencies": {},
   "scripts": {

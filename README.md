@@ -33,7 +33,7 @@ Save file as **issueBadge.js**
 ```js
 const rozet = require('rozet')
 
-(async () => {
+;(async () => {
 
 	// replace with your own
 	const mnemonic = "example example example example example example example example example example example example"
@@ -71,7 +71,7 @@ Save file as **listenForBadges.js**
 ```js
 const rozet = require('rozet')
 
-(async () => {
+;(async () => {
 
     await rozet.init()
 

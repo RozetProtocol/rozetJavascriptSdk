@@ -1,6 +1,6 @@
 const rozet = require('rozet')
 
-(async () => {
+;(async () => {
 
     await rozet.init()
 

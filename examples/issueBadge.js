@@ -1,6 +1,6 @@
 const rozet = require('rozet')
 
-(async () => {
+;(async () => {
 
 	const mnemonic = "example example example example example example example example example example example example"
 	await rozet.init(mnemonic)
