@@ -6,6 +6,8 @@ applications using the Rozet protocols. This SDK is distributed via:
 - CDN (`<script src="https://app.rozet.io/sdk/0.2.1/rozet.min.js"></script>`)
 - [npm package](https://www.npmjs.com/package/rozet)
 
+See [Java](https://github.com/RozetProtocol/rozetJavaSdk) and [Python](https://github.com/RozetProtocol/rozetPythonSdk).
+
 ## Getting Started
 
 ### Installation
