@@ -1,6 +1,6 @@
 # Rozet Javascript SDK
 
-[Java](https://github.com/RozetProtocol/rozetJavaSdk) | [Python](https://github.com/RozetProtocol/rozetPythonSdk)
+[Java](https://github.com/RozetProtocol/rozetJavaSdk) | [Python](https://github.com/RozetProtocol/rozetPythonSdk) | [Demo](https://app.rozet.io)
 
 The Rozet JavaScript SDK implements the client-side libraries used by
 applications using the Rozet protocols. This SDK is distributed via:
