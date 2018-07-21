@@ -100,5 +100,5 @@ Execute script on the command line
 node listenForBadges.js
 ```
 
-## Licence 
-You can view our [licence here](https://github.com/RozetProtocol/rozetNodeSdk/blob/master/LICENSE).
+## License 
+You can view our [license here](https://github.com/RozetProtocol/rozetNodeSdk/blob/master/LICENSE).
